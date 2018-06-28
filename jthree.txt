@@ -1,0 +1,16 @@
+ Volume in drive C is Data
+ Volume Serial Number is DC1D-4E59
+
+ Directory of C:\Users\jason.d\Desktop\javaproject
+
+28-06-2018  14:51    <DIR>          .
+28-06-2018  14:51    <DIR>          ..
+27-06-2018  15:03               449 abc.txt
+27-06-2018  16:31               494 efg.txt
+27-06-2018  11:10               425 FirstJava.class
+26-06-2018  16:55               105 FirstJava.java
+27-06-2018  16:43               538 j1.txt
+28-06-2018  14:46               582 jj.txt
+28-06-2018  14:51                 0 jthree.txt
+               7 File(s)          2,593 bytes
+               2 Dir(s)  419,809,206,272 bytes free
